@@ -8,6 +8,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -197,6 +200,28 @@ table {
   padding: 36px 0px 12px;
 }
 
+.headline_2 {
+  font-size: 36px;
+  font-family: "Inter", sans-serif;
+  text-align: start;
+  padding: 36px 0px 12px;
+}
+
+.mediumtext {
+  font-size: 28px;
+  font-family: "Inter", sans-serif;
+}
+
+.body {
+  font-size: 20px;
+  font-family: "Inter", sans-serif;
+}
+
+.body_2 {
+  font-size: 16px;
+  font-family: "Inter", sans-serif;
+}
+
 .text {
   font-size: 14px;
   font-family: "Inter", sans-serif;
@@ -221,6 +246,28 @@ table {
   font-family: "Inter", sans-serif;
   text-align: center;
   padding: 36px 0px 12px;
+}
+
+.headline_2 {
+  font-size: 36px;
+  font-family: "Inter", sans-serif;
+  text-align: start;
+  padding: 36px 0px 12px;
+}
+
+.mediumtext {
+  font-size: 28px;
+  font-family: "Inter", sans-serif;
+}
+
+.body {
+  font-size: 20px;
+  font-family: "Inter", sans-serif;
+}
+
+.body_2 {
+  font-size: 16px;
+  font-family: "Inter", sans-serif;
 }
 
 .text {
@@ -256,6 +303,28 @@ table {
   font-family: "Inter", sans-serif;
   text-align: center;
   padding: 36px 0px 12px;
+}
+
+.headline_2 {
+  font-size: 36px;
+  font-family: "Inter", sans-serif;
+  text-align: start;
+  padding: 36px 0px 12px;
+}
+
+.mediumtext {
+  font-size: 28px;
+  font-family: "Inter", sans-serif;
+}
+
+.body {
+  font-size: 20px;
+  font-family: "Inter", sans-serif;
+}
+
+.body_2 {
+  font-size: 16px;
+  font-family: "Inter", sans-serif;
 }
 
 .text {
@@ -320,6 +389,28 @@ table {
   padding: 36px 0px 12px;
 }
 
+.headline_2 {
+  font-size: 36px;
+  font-family: "Inter", sans-serif;
+  text-align: start;
+  padding: 36px 0px 12px;
+}
+
+.mediumtext {
+  font-size: 28px;
+  font-family: "Inter", sans-serif;
+}
+
+.body {
+  font-size: 20px;
+  font-family: "Inter", sans-serif;
+}
+
+.body_2 {
+  font-size: 16px;
+  font-family: "Inter", sans-serif;
+}
+
 .text {
   font-size: 14px;
   font-family: "Inter", sans-serif;
@@ -378,6 +469,28 @@ table {
   font-family: "Inter", sans-serif;
   text-align: center;
   padding: 36px 0px 12px;
+}
+
+.headline_2 {
+  font-size: 36px;
+  font-family: "Inter", sans-serif;
+  text-align: start;
+  padding: 36px 0px 12px;
+}
+
+.mediumtext {
+  font-size: 28px;
+  font-family: "Inter", sans-serif;
+}
+
+.body {
+  font-size: 20px;
+  font-family: "Inter", sans-serif;
+}
+
+.body_2 {
+  font-size: 16px;
+  font-family: "Inter", sans-serif;
 }
 
 .text {
@@ -462,6 +575,28 @@ table {
   padding: 36px 0px 12px;
 }
 
+.headline_2 {
+  font-size: 36px;
+  font-family: "Inter", sans-serif;
+  text-align: start;
+  padding: 36px 0px 12px;
+}
+
+.mediumtext {
+  font-size: 28px;
+  font-family: "Inter", sans-serif;
+}
+
+.body {
+  font-size: 20px;
+  font-family: "Inter", sans-serif;
+}
+
+.body_2 {
+  font-size: 16px;
+  font-family: "Inter", sans-serif;
+}
+
 .text {
   font-size: 14px;
   font-family: "Inter", sans-serif;
@@ -505,6 +640,28 @@ table {
   font-family: "Inter", sans-serif;
   text-align: center;
   padding: 36px 0px 12px;
+}
+
+.headline_2 {
+  font-size: 36px;
+  font-family: "Inter", sans-serif;
+  text-align: start;
+  padding: 36px 0px 12px;
+}
+
+.mediumtext {
+  font-size: 28px;
+  font-family: "Inter", sans-serif;
+}
+
+.body {
+  font-size: 20px;
+  font-family: "Inter", sans-serif;
+}
+
+.body_2 {
+  font-size: 16px;
+  font-family: "Inter", sans-serif;
 }
 
 .text {
@@ -572,6 +729,28 @@ table {
   padding: 36px 0px 12px;
 }
 
+.headline_2 {
+  font-size: 36px;
+  font-family: "Inter", sans-serif;
+  text-align: start;
+  padding: 36px 0px 12px;
+}
+
+.mediumtext {
+  font-size: 28px;
+  font-family: "Inter", sans-serif;
+}
+
+.body {
+  font-size: 20px;
+  font-family: "Inter", sans-serif;
+}
+
+.body_2 {
+  font-size: 16px;
+  font-family: "Inter", sans-serif;
+}
+
 .text {
   font-size: 14px;
   font-family: "Inter", sans-serif;
@@ -613,6 +792,28 @@ table {
   padding: 36px 0px 12px;
 }
 
+.headline_2 {
+  font-size: 36px;
+  font-family: "Inter", sans-serif;
+  text-align: start;
+  padding: 36px 0px 12px;
+}
+
+.mediumtext {
+  font-size: 28px;
+  font-family: "Inter", sans-serif;
+}
+
+.body {
+  font-size: 20px;
+  font-family: "Inter", sans-serif;
+}
+
+.body_2 {
+  font-size: 16px;
+  font-family: "Inter", sans-serif;
+}
+
 .text {
   font-size: 14px;
   font-family: "Inter", sans-serif;
@@ -649,6 +850,28 @@ table {
   font-family: "Inter", sans-serif;
   text-align: center;
   padding: 36px 0px 12px;
+}
+
+.headline_2 {
+  font-size: 36px;
+  font-family: "Inter", sans-serif;
+  text-align: start;
+  padding: 36px 0px 12px;
+}
+
+.mediumtext {
+  font-size: 28px;
+  font-family: "Inter", sans-serif;
+}
+
+.body {
+  font-size: 20px;
+  font-family: "Inter", sans-serif;
+}
+
+.body_2 {
+  font-size: 16px;
+  font-family: "Inter", sans-serif;
 }
 
 .text {
@@ -690,7 +913,6 @@ table {
   margin-left: 4px;
   border: none;
   background: none;
-  color: white;
 }
 .footer__items__form__btn {
   height: 100%;
@@ -739,4 +961,253 @@ form {
   box-sizing: border-box;
   border: 1.5px solid #F7EEE3;
   border-radius: 4px;
+}
+
+.headline {
+  font-size: 36px;
+  font-family: "Inter", sans-serif;
+  text-align: center;
+  padding: 36px 0px 12px;
+}
+
+.headline_2 {
+  font-size: 36px;
+  font-family: "Inter", sans-serif;
+  text-align: start;
+  padding: 36px 0px 12px;
+}
+
+.mediumtext {
+  font-size: 28px;
+  font-family: "Inter", sans-serif;
+}
+
+.body {
+  font-size: 20px;
+  font-family: "Inter", sans-serif;
+}
+
+.body_2 {
+  font-size: 16px;
+  font-family: "Inter", sans-serif;
+}
+
+.text {
+  font-size: 14px;
+  font-family: "Inter", sans-serif;
+}
+
+.label {
+  font-size: 12px;
+  font-family: "Inter", sans-serif;
+}
+
+.smalltext {
+  font-size: 10px;
+  font-family: "Inter", sans-serif;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.seating__title {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.seating__title__subtitle {
+  max-width: 440px;
+}
+.seating__thumbnail {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  float: left;
+}
+.seating__thumbnail__img {
+  width: 100%;
+}
+.seating__thumbnail__hover {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: none;
+}
+
+.seating__thumbnail:hover .seating__thumbnail__hover {
+  display: block;
+}
+
+.headline {
+  font-size: 36px;
+  font-family: "Inter", sans-serif;
+  text-align: center;
+  padding: 36px 0px 12px;
+}
+
+.headline_2 {
+  font-size: 36px;
+  font-family: "Inter", sans-serif;
+  text-align: start;
+  padding: 36px 0px 12px;
+}
+
+.mediumtext {
+  font-size: 28px;
+  font-family: "Inter", sans-serif;
+}
+
+.body {
+  font-size: 20px;
+  font-family: "Inter", sans-serif;
+}
+
+.body_2 {
+  font-size: 16px;
+  font-family: "Inter", sans-serif;
+}
+
+.text {
+  font-size: 14px;
+  font-family: "Inter", sans-serif;
+}
+
+.label {
+  font-size: 12px;
+  font-family: "Inter", sans-serif;
+}
+
+.smalltext {
+  font-size: 10px;
+  font-family: "Inter", sans-serif;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.product {
+  margin: 36px auto;
+}
+.product__images {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.product__images__thumbnail img {
+  width: 100%;
+}
+.product__images__others {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+}
+.product__images__others img {
+  background: #E8E8E8;
+  width: 100px;
+  height: 60px;
+  border: none;
+}
+.product__description {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+.product__description__title {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.product__description__style {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.product__description__upgrade {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.product__description__upgrade__text {
+  color: #9C9C9C;
+}
+.product__description__btn {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.headline {
+  font-size: 36px;
+  font-family: "Inter", sans-serif;
+  text-align: center;
+  padding: 36px 0px 12px;
+}
+
+.headline_2 {
+  font-size: 36px;
+  font-family: "Inter", sans-serif;
+  text-align: start;
+  padding: 36px 0px 12px;
+}
+
+.mediumtext {
+  font-size: 28px;
+  font-family: "Inter", sans-serif;
+}
+
+.body {
+  font-size: 20px;
+  font-family: "Inter", sans-serif;
+}
+
+.body_2 {
+  font-size: 16px;
+  font-family: "Inter", sans-serif;
+}
+
+.text {
+  font-size: 14px;
+  font-family: "Inter", sans-serif;
+}
+
+.label {
+  font-size: 12px;
+  font-family: "Inter", sans-serif;
+}
+
+.smalltext {
+  font-size: 10px;
+  font-family: "Inter", sans-serif;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.dimension {
+  margin: 36px auto;
+}
+.dimension__table {
+  border-collapse: collapse;
+  width: 100%;
+  text-align: left;
+}
+.dimension__table__text {
+  color: #9C9C9C;
+}
+.dimension__table td {
+  border-bottom: 1px solid gainsboro;
+  padding: 12px 0;
+  width: 60%;
+}
+.dimension__thumbnail {
+  display: flex;
+  align-items: center;
+}
+.dimension__thumbnail img {
+  width: 100%;
 }/*# sourceMappingURL=styles.css.map */
