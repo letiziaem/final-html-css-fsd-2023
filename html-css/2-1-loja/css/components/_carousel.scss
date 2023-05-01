@@ -1,0 +1,30 @@
+@import '../partials/typography';
+
+.carousel {
+    margin: 36px auto;
+
+    &__overflow {
+        margin: 8px auto;
+        display: flex;
+        justify-content: flex-start;
+        gap: 8px;
+        overflow: hidden;
+        overflow-x: scroll;
+    }
+
+    &__thumbnail {
+        width: 400px;
+        height: 400px;
+        margin: 8px;
+        border-radius: 4px;
+        object-fit: cover;
+    }
+}
+/*
+.carousel__overflow:hover {
+    overflow-x: scroll;
+}
+
+.carousel__overflow::-webkit-scrollbar {
+    display: none;
+} */

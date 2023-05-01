@@ -1,0 +1,23 @@
+@import '../partials/typography';
+
+.categories {
+    margin: 36px auto;
+
+    &__thumbnail {
+        position: relative;
+
+        img {
+            width: 100%;
+        }
+    
+        &__text {
+            position: absolute;
+            bottom: 10px;
+            left: 10px;
+        }
+    }
+}
+
+@media screen and (max-width: 768px) {
+
+}
