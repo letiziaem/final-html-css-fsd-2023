@@ -1,2 +1,2 @@
 # final-html-css-fsd-23
-Exercícios e projetos do módulo de HTML e CSS do curso Full Stack Development - EDIT 2023.
+Exercises and final project of the HTML and CSS modules of the Full Stack Development Course - EDIT 2023.
